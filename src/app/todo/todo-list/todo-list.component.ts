@@ -12,4 +12,6 @@ export class TodoListComponent implements OnInit {
   ngOnInit(): void {
   }
 
+  mylist = ['Batman','Spiderman','Flash','Green Arrow'];
+
 }

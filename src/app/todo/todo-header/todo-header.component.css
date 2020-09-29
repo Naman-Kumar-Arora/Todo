@@ -1,0 +1,11 @@
+header{
+    text-align: center;
+    font-weight: bolder;
+    background-color: darkblue;
+    color: whitesmoke;
+    font-size: x-large;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+}

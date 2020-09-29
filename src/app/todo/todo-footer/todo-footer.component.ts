@@ -12,4 +12,6 @@ export class TodoFooterComponent implements OnInit {
   ngOnInit(): void {
   }
 
+  count: Number = 4;
+
 }
